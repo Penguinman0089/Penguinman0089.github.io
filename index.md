@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+### Sam Yost
+(253)381-8263 
 
-You can use the [editor on GitHub](https://github.com/Penguinman0089/Penguinman0089.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Samjyost@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### _Results_ _oriented_ _team_ _player;_ _known_ _as_ _a_ _contributor_ _with_ _skilled_ _technical_ _abilities_
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Skills
 ```markdown
-Syntax highlighted code block
+Milling Machines
+MasterCAM
+Solidworks
+Rhinoceros 3D
+AutoCad
+MakerBot
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Self starter
+Leader
+Creative
+Problem solver
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Certifications
+```markdown
+Journeyman Production Technician                  5/2019
+OSHA 10-Youth Apprenticeship, Safety Matters	  1/2017
+```
 
-### Jekyll Themes
+### Education
+```markdown
+Attending Boise State University Boise, ID		  Planed graduation 2023
+Graduated Stadium High School Tacoma, WA			  	    2019 
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Penguinman0089/Penguinman0089.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work History
+```markdown
+**CNC Programmer & Machinist,**
+Quality Stamping and Machining            02/2017 to 07/2018
+1907 137th Ave E, Sumner, WA 98390
+Maintained CNC programs and ensured accuracy of all instructions through comparison with original blueprints. 
+Analyzed and recommended all cutting tools with the proper speed and feeds for CNC programs.
+Responsible for machining and operating titanium, inconel, aluminum, and stainless-steel material. 
+Designed and fabricated tooling and fixtures due to machining requirements.
+Provided set-up sheets and instructions to machinists. 
+Trained and instructed operators/machinists to operate machine tools. 
+Responsible with close tolerance +/- .0005.
 
-### Support or Contact
+**Lead Data Administrator**			  
+Quality Stamping and Machining            07/2018 to 07/2019 & 05/2020 to 08/2020
+1907 137th Ave E, Sumner, WA 98390
+Maintained our file system and organized the new files and put them in the proper location. 
+Wrote a script in auto hotkey to check if we already had the file and then to download, save and move them to the correct file location. 
+Training a CNC programmer and data administrator.
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Accomplishments
+```markdown
+Journeyman Production Technician- Certification earned by taking 3 college classes and 10,000 hours of on the job training.
+Stem Signing Day- Represented the 9th district of Washington at the 2nd annual stem signing day.
+```
